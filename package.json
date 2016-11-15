@@ -1,5 +1,5 @@
 {
-  "name": "resumablejs",
+  "name": "@azmenak/resumablejs",
   "version": "1.0.2",
   "description": "A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.",
   "main": "resumable.js",
